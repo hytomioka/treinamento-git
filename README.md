@@ -1,3 +1,7 @@
-# Conceitos GIT
+# Codigos de teste para commit (python)
 
-Blob, tree e commit
+- Hello World
+- Fibonacci
+- Fatorial
+- Soma
+- Multiplicacao
